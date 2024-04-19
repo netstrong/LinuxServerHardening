@@ -20,4 +20,4 @@ University Project
 
 Task | MySQL / MariaDB | PostgreSQL | SQLite
 :------------ | :-------------| :-------------| :-------------
-زیباسازی صفحه اول | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
+زیباسازی README.md | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
