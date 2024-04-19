@@ -25,4 +25,4 @@ University Project
 
 
 
--[منبع الگو برای زیباسازی صفحه اول گیتهاب: 1] (https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table)
+-[منبع الگو برای زیباسازی صفحه اول گیتهاب: 1](https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table)
