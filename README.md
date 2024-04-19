@@ -16,6 +16,8 @@ University Project
 
 🔄 لینک دهی به مقالات مرجع
 
-Function | MySQL / MariaDB | PostgreSQL | SQLite
+## ✔️ لیست وظایف
+
+Task | MySQL / MariaDB | PostgreSQL | SQLite
 :------------ | :-------------| :-------------| :-------------
-substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
+زیباسازی صفحه اول | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
