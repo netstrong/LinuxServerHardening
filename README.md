@@ -18,6 +18,5 @@ University Project
 
 ## ✔️ لیست وظایف
 
-Task | MySQL / MariaDB | PostgreSQL | SQLite
-:------------ | :-------------| :-------------| :-------------
-زیباسازی README.md | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
+- [x] زیباسازی صفحه اول
+- [ ] ساخت و جمع آوری دفترچه واژگان
