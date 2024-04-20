@@ -1,28 +1,26 @@
 # LinuxServerHardening
 University Project
 
-# ایمن سازی سرور لینوکسی
-پروژه پژوهشی-عملی دانشگاهی
 
 
 
-## 🚀 اهداف اصلی
+## 🚀 Main Goals
 
-✈️ آشنایی با اصطلاحات تخصصی این حوزه
+✈️ Define the technical words
 
-🔍 جمع آوری مقالات و نوشته های مربوط در این حوزه
+🔍 Make a list table of related articles
 
-⭐تمرین و اجرای عملی فرآیندهای مربوطه
+⭐ Demo for this project
 
-🔄 لینک دهی به مقالات مرجع
-
-
-
-## ✔️ لیست وظایف
-
-- [x] زیباسازی صفحه اول
-- [ ] ساخت و جمع آوری دفترچه واژگان
+🔄 Reffering to other re-sources
 
 
 
-- [منبع الگو برای زیباسازی صفحه اول گیتهاب: 1](https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table)
+## ✔️ To-Do
+
+- [x] README.md page arrangment
+- [ ] Making a def page
+
+
+
+- [source for arranging the README.md page: 1](https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table)
