@@ -13,8 +13,7 @@ University Project - 2023 [Finished]
 
 ## ✔️ To-Do
 
-- [x] README.md page arrangment
-- [ ] Making a def page
+- [x] Uploading the Docs
 
 
 
