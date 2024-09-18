@@ -1,10 +1,10 @@
-# LinuxServerHardening
+# Linux Server Hardening
 University Project - 2023 [Finished]
 
 
 
 
-## 🚀 Main Goals
+## 🚀 Related Links
 
 🔍 [See the roadmap](https://roadmap.sh/r/general-linux-server-hardening)
 
