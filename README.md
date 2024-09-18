@@ -5,7 +5,7 @@ University Project - 2023 [Finished]
 
 
 ## 🚀 Related Links
-
+🔍 [See the Docs online on Google Drive]([https://roadmap.sh/r/general-linux-server-hardening](https://drive.google.com/drive/folders/13_No-F2RCDAyWMDt7XpAJ2Lc60PUrEv6?usp=sharing))
 🔍 [See the roadmap](https://roadmap.sh/r/general-linux-server-hardening)
 
 
