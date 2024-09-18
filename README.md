@@ -6,13 +6,8 @@ University Project - 2023 [Finished]
 
 ## 🚀 Main Goals
 
-✈️ Define the technical words
+🔍 [See the roadmap](https://roadmap.sh/r/general-linux-server-hardening)
 
-🔍 Make a list table of related articles
-
-⭐ Demo for this project
-
-🔄 Reffering to other re-sources
 
 
 
